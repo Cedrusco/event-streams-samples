@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EventStreamsConsoleSample",
+            "request": "launch",
+            "mainClass": "com.eventstreams.samples.EventStreamsConsoleSample",
+            "projectName": "kafka-java-console-sample"
+        }
+    ]
+}
